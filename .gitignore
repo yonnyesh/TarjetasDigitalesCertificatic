@@ -1,0 +1,10 @@
+   .classpath
+        .project
+        .settings/
+        pom.xml
+        src/
+        target/
+.classpath
+.project
+.settings/
+target/
